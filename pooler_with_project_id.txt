@@ -1,0 +1,15 @@
+# Try with project ID in username for connection pooler
+
+# Database Configuration
+DB_CONNECTION=supabase
+SUPABASE_DB_HOST=aws-0-us-east-1.pooler.supabase.com
+SUPABASE_DB_PORT=6543
+SUPABASE_DB_DATABASE=postgres
+SUPABASE_DB_USERNAME=postgres.habqzdhxytmqqtptozac
+SUPABASE_DB_PASSWORD=Wilmadumagat01
+SUPABASE_DB_URL=postgresql://postgres.habqzdhxytmqqtptozac:Wilmadumagat01@aws-0-us-east-1.pooler.supabase.com:6543/postgres
+
+# API Configuration
+SUPABASE_URL=https://habqzdhxytmqqtptozac.supabase.co
+SUPABASE_ANON_KEY=your-anon-key-here
+SUPABASE_SERVICE_ROLE_KEY=your-service-role-key-here
